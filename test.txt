@@ -1,3 +1,0 @@
-I am a text file and I like text.
-I added a 2nd line to this text file.
-3rd line addition
